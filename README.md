@@ -1,3 +1,3 @@
 # MyHelloWorld
-My First Repository
-This is my read me file
+My First Repository!
+This is the read me file.
